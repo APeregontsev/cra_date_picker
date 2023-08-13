@@ -58,6 +58,8 @@ table {
   border-collapse: collapse;
 
   thead {
+    cursor: default;
+
     th {
       padding: 0.5em;
     }
@@ -134,6 +136,7 @@ table {
   word-spacing: 0.3em;
   font-size: 1.1em;
   background-color: var(--White);
+  cursor: default;
 
   & .controlBtnPrev {
     display: block;
@@ -167,5 +170,6 @@ table {
   }
 
   & .currentDate {
+    cursor: default;
   }
 }
