@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cra_date_picker/static/css/main.413b55dd.css",
+    "main.js": "/cra_date_picker/static/js/main.197d611d.js",
+    "static/media/calendar_icon.svg": "/cra_date_picker/static/media/calendar_icon.d17f5bafdce63e499a36.svg",
+    "index.html": "/cra_date_picker/index.html",
+    "main.413b55dd.css.map": "/cra_date_picker/static/css/main.413b55dd.css.map",
+    "main.197d611d.js.map": "/cra_date_picker/static/js/main.197d611d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.413b55dd.css",
+    "static/js/main.197d611d.js"
+  ]
+}
